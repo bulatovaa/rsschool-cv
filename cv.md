@@ -32,3 +32,35 @@ const fizzBuzz = (begin, end) => {
 };  
 ```  
 
+## Experience  
+
+Tasks from [Hexlet](https://ru.hexlet.io/)  
+Examples:  
+```  
+const reverse = (str) => {  
+	let i = str.length - 1;  
+    let result = '';  
+    
+    while (i >= 0) {  
+    	result += str[i];  
+        i -= 1;  
+    }  
+    return result;  
+};
+```  
+
+## Education
+
+**2010 - 2012**  
+Samara University ( Engineering )  
+**2020-2021**  
+Online Courses:  
+* Hexlet
+* HTML Academy
+* Harvard CS50
+* Udemy (Web-development)
+
+## English  
+
+Level B1 *(Intermediate)*
+
