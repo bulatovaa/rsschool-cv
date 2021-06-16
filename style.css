@@ -46,3 +46,21 @@ section {
 h2 {
     margin-bottom: 10px;
 }
+
+.experience__link {
+    text-decoration: none;
+    color: rgb(182, 158, 21);
+}
+
+.experience__link:hover {
+    color: rgb(235, 205, 35);
+}
+
+.experience__details {
+    margin-top: 10px;
+}
+
+h4 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
